@@ -23,5 +23,11 @@
 <!-- [<img align="left" alt="Deno" width="26px" src="./img/deno-light.svg" style="padding-right:10px;" />][webdevplaylist] -->
 <!-- [<img align="left" alt="MongoDB" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" style="padding-right:10px;" />] -->
 
-[<img align="left" alt="MySQL" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="padding-right:10px;" />](https://www.mysql.com/)
+<!-- [<img align="left" alt="MySQL" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="padding-right:10px;" />](https://www.mysql.com/) -->
+
+[<img align="left" alt="MySQL" width="26px" src="https://www.flaticon.com/free-icon/mysql_919836?term=mysql&page=1&position=4&origin=search&related_id=919836" style="padding-right:10px;" />](https://www.mysql.com/)
 [<img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />](https://git-scm.com/)
+[<img align="left" alt="vite" width="26px" src="https://github.com/vitejs.png?size=40" style="padding-right:10px;" />](https://vitejs.dev/)
+[<img align="left" alt="webpack" width="26px" src="https://github.com/webpack.png?size=40" style="padding-right:10px;" />](https://webpack.js.org/)
+[<img align="left" alt="yarn" width="26px" src="https://github.com/yarnpkg.png?size=40" style="padding-right:10px;" />](https://yarnpkg.com/)
+[<img align="left" alt="yarn" width="26px" src="https://github.com/npm.png?size=40" style="padding-right:10px;" />](https://www.npmjs.com/)
