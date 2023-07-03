@@ -33,7 +33,7 @@
 [<img align="left" alt="yarn" width="26px" src="https://github.com/yarnpkg.png?size=40" style="padding-right:10px;" />](https://yarnpkg.com/)
 [<img align="left" alt="yarn" width="26px" src="https://github.com/npm.png?size=40" style="padding-right:10px;" />](https://www.npmjs.com/)
 
-<p align="left">
+<!-- <p align="left"> -->
 
  <!-- <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer">  -->
 <!-- <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> -->
@@ -54,14 +54,11 @@
 
 <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a>
 
-</p>
+<!-- </p> -->
 
 <!--proflile views-->
 
 <p><img src="https://komarev.com/ghpvc/?username=akhsinak&label=Profile%20views&color=0e75b6&style=flat" alt="akhsinak" /> </p>
-
-
-
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
