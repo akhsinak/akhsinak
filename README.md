@@ -54,9 +54,14 @@
 
 <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a>
 
+</p>
+
 <!--proflile views-->
 
-<img src="https://komarev.com/ghpvc/?username=akhsinak&label=Profile%20views&color=0e75b6&style=flat" alt="akhsinak" /> </p>
+<p><img src="https://komarev.com/ghpvc/?username=akhsinak&label=Profile%20views&color=0e75b6&style=flat" alt="akhsinak" /> </p>
+
+
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
