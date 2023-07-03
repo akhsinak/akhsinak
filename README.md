@@ -34,7 +34,7 @@
 
 
 <!--proflile views-->
-p align="left"> <img src="https://komarev.com/ghpvc/?username=aritrocoder&label=Profile%20views&color=0e75b6&style=flat" alt="aritrocoder" /> </p>
+<img src="https://komarev.com/ghpvc/?username=akhsinak&label=Profile%20views&color=0e75b6&style=flat" alt="akhsinak" /> </p>
 
 
 <h3 align="left">Connect with me:</h3>
