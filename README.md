@@ -31,3 +31,18 @@
 [<img align="left" alt="webpack" width="26px" src="https://github.com/webpack.png?size=40" style="padding-right:10px;" />](https://webpack.js.org/)
 [<img align="left" alt="yarn" width="26px" src="https://github.com/yarnpkg.png?size=40" style="padding-right:10px;" />](https://yarnpkg.com/)
 [<img align="left" alt="yarn" width="26px" src="https://github.com/npm.png?size=40" style="padding-right:10px;" />](https://www.npmjs.com/)
+
+
+<!--proflile views-->
+p align="left"> <img src="https://komarev.com/ghpvc/?username=aritrocoder&label=Profile%20views&color=0e75b6&style=flat" alt="aritrocoder" /> </p>
+
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<!-- <a href="https://twitter.com/aritrabhaduri5" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="aritrabhaduri5" height="30" width="40" /></a> -->
+<a href="https://www.linkedin.com/in/kanishka-sai-tulasi-p-812624225/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aritra bhaduri" height="30" width="40" /></a>
+<!-- <a href="https://stackoverflow.com/users/17532024/indian-coder" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="indian_coder" height="30" width="40" /></a> -->
+<!-- <a href="https://www.facebook.com/profile.php?id=100076168148489" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="aritra bhaduri" height="30" width="40" /></a> -->
+<!-- <a href="https://instagram.com/infinitearitro" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="infinitearitro" height="30" width="40" /></a> -->
+<a href="https://codeforces.com/profile/akhsinak" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="infinitearitro" height="30" width="40" /></a>
+</p>
