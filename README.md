@@ -52,7 +52,7 @@
 <img align="left" alt="postman" width="26px" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" style="padding-right:10px;" />
 
 
-
+<img align="left" alt="NEXT_JS" width="26px" src="https://avatars.githubusercontent.com/u/14985020?s=48&v=4" style="padding-right:10px;" />
 
 
 
