@@ -55,7 +55,7 @@
 <img align="left" alt="NEXT_JS" width="26px" src="https://avatars.githubusercontent.com/u/14985020?s=48&v=4" style="padding-right:10px;" />
 
 
-
+<br>
 <!--proflile views-->
 
 <p><img src="https://komarev.com/ghpvc/?username=akhsinak&label=Profile%20views&color=0e75b6&style=flat" alt="akhsinak" /> </p>
